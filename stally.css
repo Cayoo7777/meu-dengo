@@ -1,0 +1,46 @@
+body{
+    background-color: darkgrey;
+}
+
+
+
+#h1{
+    position:absolute;
+    left: 40%;
+    color: rgb(212, 0, 255);
+}
+
+#h2{
+    position:absolute;
+    top: 10%;
+    left: 39%;
+    color: rgb(212, 0, 255);
+}
+
+#txt1{
+    position:absolute;
+    top: 19%;
+    left: 42%;
+}
+
+#h3{
+    position:absolute;
+    top: 20%;
+    left: 43%;
+    color: rgb(212, 0, 255);
+
+}
+#txt2{
+    position:absolute;
+    top: 28%;
+    left: 42%;
+}
+
+#bt1{
+    position:absolute;
+    color:rgb(212, 0, 255) ;
+    border: none;
+    top: 35%;
+    left: 44%;
+
+}
